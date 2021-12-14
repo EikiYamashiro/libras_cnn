@@ -7,5 +7,7 @@ Rede Neural Convolucional para classificar os sinais das letras do alfabeto na L
 
 3. Com o modelo treinado e salvo como first_model.model, rode o model.ipynb para testar a CNN em tempo real!
 
+4. Pressione 'q' para sair do programa.
+
 
 Eiki Yamashiro, Fernando Fincatti, Lais Nascimento.
